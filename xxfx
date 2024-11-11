@@ -2,19 +2,19 @@ current Quadrant analysis
 emergency<---/^vital
 ┌─────────────────────────────┬─────────────────────────────────┐
 │                             │ publish a paper on arxiv        │
-│                             │ read books like xgqq            │
-│                             │ watch the lecture school        │
-│                             │ have a better daily habit       │
+│                             │ make animation mmd              │
+│                             │                                 │
+│                             │                                 │
 │                             │ watch tutorial of all kind      │
+│                             │     watch game art tutorial     │
 │                             │ make money                      │
 │                             │                                 │
 │                             │                                 │
 │                             │                                 │
-│                             │                                 │
 ├─────────────────────────────┼─────────────────────────────────┤
-│ home works                  │                                 │
-│                             │                                 │
-│                             │                                 │
+│ home works                  │ read books like xgqq            │
+│                             │ watch the lecture school        │
+│                             │ have a better daily habit       │
 │                             │                                 │
 │                             │                                 │
 │                             │                                 │
@@ -23,3 +23,6 @@ emergency<---/^vital
 │                             │                                 │
 │                             │                                 │
 └─────────────────────────────┴─────────────────────────────────┼
+def emergency := 截止日期之前不做就再没有机会做的事情 this thing can only operate before a certain deadline
+def vital := 生产资产的任何劳动 this thing can cultivate assets
+def assets := this thing can bring passive income in any kind
