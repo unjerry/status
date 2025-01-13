@@ -24,5 +24,6 @@ emergency<---/^vital
 │                             │                                 │
 └─────────────────────────────┴─────────────────────────────────┼
 def emergency := 截止日期之前不做就再没有机会做的事情 this thing can only operate before a certain deadline
+def 截止日期 := 一周以内的deadline才是截至日期 this thing is a deadline within a week.
 def vital := 生产资产的任何劳动 this thing can cultivate assets
 def assets := this thing can bring passive income in any kind
