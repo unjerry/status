@@ -172,4 +172,6 @@ status 20250902 [吃饭,休息,新电脑ssh设置,CACs,blender,GPT口语]
 status 20250908 [起床,吃饭,work]
 0700 起床 0800
 0800 吃饭 0830
-0840 work(at 经信F2阶梯) opening process regdel 1055
+0840 work(at 经信F2阶梯) opening process regdel 1100
+1125 吃饭 1200
+1216 work(at 逸夫409) opening process regdel
