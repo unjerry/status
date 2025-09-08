@@ -174,4 +174,4 @@ status 20250908 [起床,吃饭,work]
 0800 吃饭 0830
 0840 work(at 经信F2阶梯) opening process regdel 1100
 1125 吃饭 1200
-1216 work(at 逸夫409) opening process regdel
+1216 work(at 逸夫409) opening process regdel 1615
