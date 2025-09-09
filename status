@@ -176,3 +176,19 @@ status 20250908 [起床,吃饭,work]
 1125 吃饭 1200
 1216 work(at 逸夫409) opening process regdel 1615
 1625 吃饭 
+
+status 20250909 [起床,吃饭,work,记账,洗澡,刷牙,卖身契,和gpt聊天,处理krk换邮箱]
+0700 起床 0830
+0830 吃饭 0900
+0915 work(at dorm) on product 1000
+1000 处理krk换邮箱 1100
+1100 吃饭+卖身契 1200
+1200 和gpt聊天 1300
+1300 交卖身契 1330
+1330 work(at dorm) on product 1630
+1630 吃饭 1700
+1700 work(at dorm) on product 1900
+1900 洗澡 1930
+1930 work(at dorm) on product 2100
+2130 刷牙 2143
+2143 记账
