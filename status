@@ -216,3 +216,15 @@ status 20250915 [起床,吃饭,处理krk换邮箱,work]
 1200 吃饭+处理krk换邮箱 1330
 1330 work(at 法学楼305) opening process regdel 1500
 1530 die课 1700
+
+status 20251110
+1230 到达法学楼dieke+查ubc导师+查uOttawa+查UofT 1430
+1430 godot-svs 1750
+1800 离开法学楼+吃饭 1850
+1900 product+电话+洗澡 2240
+2240 找导师+godot 2340
+2430 睡觉 0800
+
+status 20251111
+0930 godot 1030
+1030 写一个邮件
