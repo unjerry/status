@@ -377,6 +377,23 @@ MCLianJiPK-1703
     -sleep              -0740
 
 20260401
+    -Zinc
 0740-onbed-selfsoothe   -0830
 0830-breakfast          -0849
 0849-affairs            -
+1000-mmdABBBAspec
+    -lunch
+    -sleep-
+1836-mmdABBBAspec
+--
+2038-
+
+20260402
+0804-breakfast-rest     -0852
+    -mmd_kZhen          -1033
+    -1131
+    --
+1405-mmd_kZhen
+
+    -
+1919-mmd_kZhen
